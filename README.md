@@ -39,7 +39,7 @@ This analysis is designed to compile and summarize ride-sharing data for PyBer, 
 ![Line Plot, Total Fares, 01/01-04/28](Images/Graph.png)
 
 ## Summary
-A few reasonable conclusions can be derived from the results.
+
 ### Summary DataFrame
 - In every category, the data follows a linear correlation of 3 points, with Suburban values always falling in between the Rural and Urban values.
 - However, not all categories follow a positive or negative correlation:
